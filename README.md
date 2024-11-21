@@ -95,9 +95,7 @@ The output will be an Excel file with:
 - If any required libraries are missing, you can install them using `pip install <library-name>`.
 - Ensure that the paths to the files are correct, especially when setting the output location or loading the input files.
 
- License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
